@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 5d8806118d013174e8a1e80c39c9083a
+timeCreated: 1461399708
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arm_L
+    100002: arm_R
+    100004: body
+    100006: bone_arm_L0
+    100008: bone_arm_L1
+    100010: bone_arm_L1_end
+    100012: bone_arm_R0
+    100014: bone_arm_R1
+    100016: bone_arm_R1_end
+    100018: bone_foot_L0
+    100020: bone_foot_L1
+    100022: bone_foot_L1_end
+    100024: bone_foot_R0
+    100026: bone_foot_R1
+    100028: bone_foot_R1_end
+    100030: bone_head
+    100032: bone_head_end
+    100034: bone_mainBody
+    100036: bone_mainBody_branch
+    100038: bone_mainBody_root
+    100040: bone_shoulder_L
+    100042: bone_shoulder_R
+    100044: bone_subBody_L
+    100046: bone_subBody_R
+    100048: ear_L
+    100050: ear_R
+    100052: face
+    100054: foot_L
+    100056: foot_R
+    100058: hair
+    100060: head
+    100062: //RootNode
+    100064: wear
+    400000: arm_L
+    400002: arm_R
+    400004: body
+    400006: bone_arm_L0
+    400008: bone_arm_L1
+    400010: bone_arm_L1_end
+    400012: bone_arm_R0
+    400014: bone_arm_R1
+    400016: bone_arm_R1_end
+    400018: bone_foot_L0
+    400020: bone_foot_L1
+    400022: bone_foot_L1_end
+    400024: bone_foot_R0
+    400026: bone_foot_R1
+    400028: bone_foot_R1_end
+    400030: bone_head
+    400032: bone_head_end
+    400034: bone_mainBody
+    400036: bone_mainBody_branch
+    400038: bone_mainBody_root
+    400040: bone_shoulder_L
+    400042: bone_shoulder_R
+    400044: bone_subBody_L
+    400046: bone_subBody_R
+    400048: ear_L
+    400050: ear_R
+    400052: face
+    400054: foot_L
+    400056: foot_R
+    400058: hair
+    400060: head
+    400062: //RootNode
+    400064: wear
+    2300000: body
+    2300002: head
+    3300000: body
+    3300002: head
+    4300000: head
+    4300002: face
+    4300004: ear_L
+    4300006: ear_R
+    4300008: hair
+    4300010: body
+    4300012: wear
+    4300014: arm_L
+    4300016: foot_R
+    4300018: arm_R
+    4300020: foot_L
+    9500000: //RootNode
+    13700000: arm_L
+    13700002: arm_R
+    13700004: ear_L
+    13700006: ear_R
+    13700008: face
+    13700010: foot_L
+    13700012: foot_R
+    13700014: hair
+    13700016: wear
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
